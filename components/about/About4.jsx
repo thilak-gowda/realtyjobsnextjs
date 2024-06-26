@@ -52,7 +52,7 @@ const About4 = () => {
           <Image
             width={608}
             height={600}
-            src="/images/resource/image-5.png"
+            src="/images/resource/steps-img.webp"
             alt="popup icon"
           />
           <div

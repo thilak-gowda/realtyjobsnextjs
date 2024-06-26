@@ -9,7 +9,7 @@ const Footer = () => {
         <Image
           width={376}
           height={376}
-          src="/images/index-11/footer/1.png"
+          src="/images/index-11/footer/1.webp"
           alt="image"
         />
       </div>

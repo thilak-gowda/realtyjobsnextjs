@@ -11,7 +11,7 @@ const StepsBlock = () => {
                 <Image
                   width={608}
                   height={557}
-                  src="/images/index-11/text/image-1.png"
+                  src="/images/index-11/text/image-1.webp"
                   alt="about"
                 />
               </figure>

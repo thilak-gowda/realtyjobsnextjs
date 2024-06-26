@@ -34,7 +34,7 @@ const Block5 = () => {
                 <Image
                   width={608}
                   height={600}
-                  src="/images/resource/steps-img.png"
+                  src="/images/resource/steps-img.webp"
                   alt="resource"
                 />
               </figure>

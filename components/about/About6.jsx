@@ -46,7 +46,7 @@ const About6 = () => {
                 <Image
                   width={625}
                   height={497}
-                  src="/images/index-12/images/1.png"
+                  src="/images/index-12/images/1.webp"
                   alt="about"
                 />
               </figure>

@@ -114,7 +114,7 @@ const index = () => {
                 <Image
                   width={612}
                   height={604}
-                  src="/images/resource/image-5.png"
+                  src="/images/resource/steps-img.webp"
                   alt="resource"
                 />
               </figure>

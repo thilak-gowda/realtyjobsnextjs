@@ -54,7 +54,7 @@ const Testimonial3 = () => {
                   <Image
                     width={410}
                     height={500}
-                    src="/images/resource/testimonial-image.jpg"
+                    src="/images/resource/testimonial-image.png"
                     alt="testimonial"
                   />
                 </figure>
