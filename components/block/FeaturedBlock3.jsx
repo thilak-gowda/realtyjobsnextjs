@@ -5,25 +5,25 @@ const FeaturedBlock3 = () => {
   const blockContent = [
     {
       id: 1,
-      img: "/images/index-15/cities/1.png",
+      img: "/images/index-15/cities/1.webp",
       city: "New York",
       jobNumber: "18",
     },
     {
       id: 2,
-      img: "/images/index-15/cities/2.png",
+      img: "/images/index-15/cities/2.webp",
       city: "Paris",
       jobNumber: "44",
     },
     {
       id: 3,
-      img: "/images/index-15/cities/3.png",
+      img: "/images/index-15/cities/3.webp",
       city: "London",
       jobNumber: "16",
     },
     {
       id: 4,
-      img: "/images/index-15/cities/4.png",
+      img: "/images/index-15/cities/4.webp",
       city: "Los Angeles",
       jobNumber: "25",
     },

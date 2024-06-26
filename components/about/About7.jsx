@@ -20,7 +20,7 @@ const About7 = () => {
                 <Image
                   width={516}
                   height={552}
-                  src="/images/index-12/images/2.png"
+                  src="/images/index-12/images/2.webp"
                   alt="about"
                 />
               </figure>

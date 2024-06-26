@@ -28,8 +28,8 @@ const HeaderNavContent = () => {
               isActiveParent(homeItems, usePathname()) ? "current" : ""
             } dropdown`}
           >
-            <span>Home</span>
-            <div className="mega-menu">
+            <Link href='/'>Home</Link>
+            {/* <div className="mega-menu">
               <div className="mega-menu-bar row pt-0">
                 {homeItems.map((item) => (
                   <div
@@ -53,7 +53,7 @@ const HeaderNavContent = () => {
                   </div>
                 ))}
               </div>
-            </div>
+            </div> */}
           </li>
           {/* End homepage menu items */}
 
@@ -137,9 +137,9 @@ const HeaderNavContent = () => {
                     : ""
                 }
               >
-                <Link href="/employers-dashboard/dashboard">
+                {/* <Link href="/employers-dashboard/dashboard">
                   Employers Dashboard
-                </Link>
+                </Link> */}
               </li>
             </ul>
           </li>
@@ -191,9 +191,9 @@ const HeaderNavContent = () => {
                     : ""
                 }
               >
-                <Link href="/candidates-dashboard/dashboard">
+                {/* <Link href="/candidates-dashboard/dashboard">
                   Candidates Dashboard
-                </Link>
+                </Link> */}
               </li>
             </ul>
           </li>

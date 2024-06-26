@@ -6,14 +6,14 @@ const CommentBox = () => {
     {
       id: 1,
       userName: "Oscar Cafeo",
-      userThumbSrc: "/images/resource/avatar-1.jpg",
+      userThumbSrc: "/images/resource/avatar-1.webp",
       title: "Beautiful courses",
       text: "Far much that one rank beheld bluebird after outside ignobly allegedly more when oh arrogantly vehement tantaneously eel valiantly petted this along across highhandedly much.",
     },
     {
       id: 2,
       userName: "Alex Morgan",
-      userThumbSrc: "/images/resource/avatar-2.jpg",
+      userThumbSrc: "/images/resource/avatar-2.webp",
       title: "Beautiful courses",
       text: "Far much that one rank beheld bluebird after outside ignobly allegedly more when oh arrogantly vehement tantaneously eel valiantly petted this along across highhandedly much.",
     },

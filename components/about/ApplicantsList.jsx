@@ -4,19 +4,19 @@ const ApplicantsList = () => {
   const applicantsContent = [
     {
       id: 1,
-      avatar: "/images/resource/applicant-1.png",
+      avatar: "/images/resource/applicant-1.webp",
       name: "Brooklyn Simmons",
       designation: "Web Developer",
     },
     {
       id: 2,
-      avatar: "/images/resource/applicant-2.png",
+      avatar: "/images/resource/applicant-2.webp",
       name: "Courtney Henry",
       designation: "Web Developer",
     },
     {
       id: 3,
-      avatar: "/images/resource/applicant-3.png",
+      avatar: "/images/resource/applicant-3.webp",
       name: "Marvin McKinney",
       designation: "Web Developer",
     },

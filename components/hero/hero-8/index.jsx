@@ -10,7 +10,7 @@ const index = () => {
           <Image
             width={952}
             height={942}
-            src="/images/resource/banner-img-9.png"
+            src="/images/resource/banner-img-9.webp"
             alt="banner image"
           />
         </figure>

@@ -10,7 +10,7 @@ const FormContent = () => {
       <form method="post">
         <div className="form-group">
           <label>Username</label>
-          <input type="text" name="username" placeholder="Username" required />
+          <input type="text" name="username" placeholder="Username" className="h-0 py-0" required />
         </div>
         {/* name */}
 

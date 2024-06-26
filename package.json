@@ -2,14 +2,12 @@
   "name": "superio-next",
   "version": "2.0.0",
   "private": true,
- "scripts": {
-    "dev:client": "next src/client",
-    "dev:server": "babel src/server --out-dir dist/server --source-maps --watch",
-    "dev": "yarn run dev:client & yarn run dev:server",
-    "build:client": "next build src/client",
-    "build:server": "babel src/server --out-dir dist/server --source-maps",
-    "build": "yarn run build:client && yarn run build:server"
-},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
   "dependencies": {
     "@faker-js/faker": "^8.1.0",
     "@reduxjs/toolkit": "^1.9.6",

@@ -7,7 +7,7 @@ const ImageBox = () => {
         <Image
           width={600}
           height={626}
-          src="/images/resource/banner-img-7.png"
+          src="/images/resource/banner-img-7.webp"
           alt="hero image"
         />
       </figure>

@@ -41,7 +41,7 @@ const Subscribe2 = () => {
               <Image
                 width={519}
                 height={467}
-                src="/images/index-15/cta-2/1.png"
+                src="/images/index-15/cta-2/1.webp"
                 alt="image"
               />
             </div>

@@ -4,21 +4,21 @@ const Block9 = () => {
   const blockContent = [
     {
       id: 1,
-      img: "/images/index-12/steps/1.png",
+      img: "/images/index-12/steps/1.webp",
       serialNo: "01",
       title: "Free Resume Assessments",
       text: `Achieve virtually any design and layout from within the one template.`,
     },
     {
       id: 2,
-      img: "/images/index-12/steps/2.png",
+      img: "/images/index-12/steps/2.webp",
       serialNo: "02",
       title: "Job Fit Scoring",
       text: `Achieve virtually any design and layout from within the one template.`,
     },
     {
       id: 3,
-      img: "/images/index-12/steps/3.png",
+      img: "/images/index-12/steps/3.webp",
       serialNo: "03",
       title: "Help Every Step of the Way",
       text: `Achieve virtually any design and layout from within the one template.`,

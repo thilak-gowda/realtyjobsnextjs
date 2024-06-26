@@ -43,7 +43,7 @@ const AppSection2 = () => {
               <Image
                 width={628}
                 height={628}
-                src="/images/index-11/download/1.png"
+                src="/images/index-11/download/1.webp"
                 alt="hero"
               />
             </figure>

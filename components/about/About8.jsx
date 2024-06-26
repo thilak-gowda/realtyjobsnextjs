@@ -87,7 +87,7 @@ const About8 = () => {
                 <Image
                   width={665}
                   height={552}
-                  src="/images/index-12/images/3.png"
+                  src="/images/index-12/images/3.webp"
                   alt="images"
                 />
               </figure>
