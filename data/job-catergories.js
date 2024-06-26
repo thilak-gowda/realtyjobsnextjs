@@ -1,8 +1,8 @@
 module.exports = [
   {
     id: 1,
-    icon: "flaticon-money-1",
-    catTitle: "Accounting / Finance",
+    icon: "flaticon-money",
+    catTitle: "Developer",
     jobNumber: "2",
   },
   {
@@ -11,41 +11,36 @@ module.exports = [
     catTitle: "Marketing",
     jobNumber: "86",
   },
-  { id: 3, icon: "flaticon-vector", catTitle: "Design", jobNumber: "43" },
+  { id: 3, icon: "flaticon-vector", catTitle: "Interior Designing", jobNumber: "43" },
   {
     id: 4,
     icon: "flaticon-web-programming",
-    catTitle: "Development",
+    catTitle: "Developers",
     jobNumber: "12",
   },
   {
     id: 5,
     icon: "flaticon-headhunting",
-    catTitle: "Human Resource",
-    jobNumber: "55",
+    catTitle: "Builders & Developers",
+    jobNumber: "3",
   },
   {
     id: 6,
-    icon: "flaticon-rocket-ship",
-    catTitle: "Automotive Jobs",
+    icon: "flaticon-graph",
+    catTitle: "Architects",
     jobNumber: "2",
   },
   {
     id: 7,
     icon: "flaticon-money-1",
-    catTitle: "Customer Service",
+    catTitle: "Infrastucture Companies",
     jobNumber: "2",
   },
   {
     id: 8,
     icon: "flaticon-first-aid-kit-1",
-    catTitle: "Health and Care",
+    catTitle: "Channel Partner",
     jobNumber: "25",
   },
-  {
-    id: 9,
-    icon: "flaticon-car",
-    catTitle: "Project Management",
-    jobNumber: "92",
-  },
+ 
 ];
